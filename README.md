@@ -3,6 +3,8 @@
 A Convolutional Neural Network (CNN) built with TensorFlow/Keras to classify chest X-ray images as Normal or Pneumonia.
 The model is trained on [Chest X-Ray Pneumonia dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) and deployed using Gradio on Hugging Face Spaces
 
+<img width="1863" height="828" alt="image" src="https://github.com/user-attachments/assets/6777f327-dbfb-4caf-888f-f8729ff4bf8c" />
+
 # Live Demo:
 
 <https://huggingface.co/spaces/StealthyWings/XRay-Pneumonia>
