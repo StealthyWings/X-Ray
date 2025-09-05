@@ -20,7 +20,7 @@ The model is trained on [Chest X-Ray Pneumonia dataset](https://www.kaggle.com/d
 
 - **Input:** 150x150 RGB chest X-ray images
 - **Conv2D + MaxPooling2D:** Extract spatial features
-- **Flatten + Dense Layers: ** Learn decision boundaries
+- **Flatten + Dense Layers:** Learn decision boundaries
 - **Dropout:** Reduce overfitting
 - **Output:** Sigmoid neuron -> binary classification (Normal vs Pneumonia)
 
